@@ -1,0 +1,53 @@
+2023.08.07 12:15:03 INFO  Started: Metals version 1.0.0 in folders 'D:\lecture\porfolio' for client Visual Studio Code 1.75.1.
+Aug 07, 2023 12:15:03 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.20.1 by Redgate
+Aug 07, 2023 12:15:03 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Aug 07, 2023 12:15:03 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Aug 07, 2023 12:15:04 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:D:\lecture\porfolio\.metals\metals (H2 2.1)
+Aug 07, 2023 12:15:04 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+Aug 07, 2023 12:15:04 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.060s)
+Aug 07, 2023 12:15:04 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+Aug 07, 2023 12:15:04 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+Aug 07, 2023 12:15:04 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+Aug 07, 2023 12:15:04 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+Aug 07, 2023 12:15:04 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+Aug 07, 2023 12:15:04 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+Aug 07, 2023 12:15:04 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.043s)
+2023.08.07 12:15:04 INFO  time: initialize in 1.26s
+2023.08.07 12:15:04 WARN  Build server is not auto-connectable.
+2023.08.07 12:15:04 WARN  no build tool detected in workspace 'D:\lecture\porfolio'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.08.07 12:20:15 INFO  
+2023.08.07 12:20:15 INFO  Template applied in D:\scala_practice\.\hello-world
+2023.08.07 12:20:15 INFO  
+2023.08.07 12:20:15 INFO  time: ran 'giter8.Giter8' in 8.33s
+2023.08.07 12:20:27 WARN  Build server is not auto-connectable.
+2023.08.07 12:20:37 INFO  
+2023.08.07 12:20:37 INFO  Template applied in D:\lecture\.\hello-world
+2023.08.07 12:20:37 INFO  
+2023.08.07 12:20:37 INFO  time: ran 'giter8.Giter8' in 4.34s
+2023.08.07 12:21:34 INFO  Shutting down server
+2023.08.07 12:21:34 INFO  shutting down Metals
+2023.08.07 12:21:34 INFO  Exiting server
+2023.08.07 12:22:06 INFO  Started: Metals version 1.0.0 in folders 'D:\lecture\porfolio' for client Visual Studio Code 1.75.1.
+Aug 07, 2023 12:22:07 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.20.1 by Redgate
+Aug 07, 2023 12:22:07 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Aug 07, 2023 12:22:07 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Aug 07, 2023 12:22:07 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:D:\lecture\porfolio\.metals\metals (H2 2.1)
+Aug 07, 2023 12:22:07 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.036s)

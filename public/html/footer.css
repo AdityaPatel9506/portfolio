@@ -1,0 +1,64 @@
+footer{
+    display: flex;
+
+    height: fit-content;
+    padding: 30px;
+    flex-direction: column;
+
+    text-align: center;
+    background-color:#222222;
+    justify-content:center ;
+    
+    /* #212529 */
+}
+
+.logo{
+    display: flex;
+    justify-self: center;
+    border-radius: 50px;
+    
+    height: 30px;
+    width: 30px;
+    
+}
+footer img{
+    
+    height: 100%;
+    width: 100%;
+
+}
+footer img:hover{
+    transform: none;
+    display: block;
+    border-radius: 50px;
+    border:2px solid #337ab7;
+    
+}
+footer h4{
+    color: aliceblue;
+}
+
+.logo-div{
+    display: flex;
+    width: 150px;
+    justify-content: space-around;
+    align-self: center;
+    flex-direction: row;
+    
+}
+#download-btn{
+    display: block;
+    font-size: 20px;
+    margin-top: 25px;
+    width: 120px;
+    height: max-content;
+    align-self: center;
+    border-color: transparent;
+    background-color: #ff2b4a;
+    
+}
+#download-btn:hover{
+    background-color: #337ab7;
+}
+
+    
